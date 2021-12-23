@@ -1,8 +1,8 @@
 ![I'm a student and a designer.](https://github.com/abinkjohny/abinkjohny/blob/main/Banner.jpg)
 
 # Hi there 👋, I'm Abin K Johny
-## I'm a Student and a Designer.
-<img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="400" height="300" />
+<h3>I'm a Student and a Designer</h3>
+<img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="300" height="225" />
 
 A hardworking and motivated young secondary school graduate with an exemplary academic record and passion for progress with the finance and accounting field. 
 Having achieved excellent grades at higher secondary level Mathematics, English and Science, along with active involvement in several cultural clubs and societies. 
