@@ -2,6 +2,7 @@
 
 # Hi there 👋, I'm Abin K Johny
 ## I'm a Student and a Designer.
+<img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="400" height="300" />
 
 A hardworking and motivated young secondary school graduate with an exemplary academic record and passion for progress with the finance and accounting field. 
 Having achieved excellent grades at higher secondary level Mathematics, English and Science, along with active involvement in several cultural clubs and societies. 
@@ -18,6 +19,6 @@ During this period I came to know about the 'Online Degree Program' initiated by
 - 🌱 I’m currently learning Wordpress, php, html & css 
 - 👯 I’m looking to collaborate on Open-Source 
 
-## Get in touch with me:
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abinkjohny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abin.kjohny.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/akj_unni_k//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.tornotron.com)  
 
