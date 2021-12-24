@@ -17,9 +17,9 @@ During this period I came to know about the 'Online Degree Program' initiated by
 - 📷 PHOTOSHOP/ILLUSTRATOR
 - 🏢 MICROSOFT OFFICE
 - 📹 FILMORA VIDEO EDITING  
-- 🔭 I’m currently working on A personal portfolio website 
-- 🌱 I’m currently learning Wordpress, php, html & css 
-- 👯 I’m looking to collaborate on Open-Source 
+- 🔭 I’m currently working on **a personal portfolio website** 
+- 🌱 I’m currently learning **Wordpress, php, html & css** 
+- 👯 I’m looking to collaborate on **Open-Source** 
 
 ## Connect with me:
   
