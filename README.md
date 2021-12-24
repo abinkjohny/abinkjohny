@@ -1,6 +1,7 @@
 ![I'm a student and a designer.](https://github.com/abinkjohny/abinkjohny/blob/main/Banner%201.jpg)
 
-# Hi there 👋, I'm Abin K Johny
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abin K Johny</h1>
 <h3>I'm a Student and a Designer</h3>
 <img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="300" height="225" />
 
