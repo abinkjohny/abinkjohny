@@ -1,4 +1,4 @@
-![I'm a student and a designer.](https://github.com/abinkjohny/abinkjohny/blob/main/Banner.jpg)
+![I'm a student and a designer.](https://github.com/abinkjohny/abinkjohny/blob/main/Banner%201.jpg)
 
 # Hi there 👋, I'm Abin K Johny
 <h3>I'm a Student and a Designer</h3>
