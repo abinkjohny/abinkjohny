@@ -5,11 +5,8 @@
 <h3>I'm a Student and a Designer</h3>
 <img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="300" height="225" />
 
-A hardworking and motivated young secondary school graduate with an exemplary academic record and passion for progress with the finance and accounting field. 
-Having achieved excellent grades at higher secondary level Mathematics, English and Science, along with active involvement in several cultural clubs and societies. 
-I am keen to pursue a career in finance. I have a proven aptitude for law, and accounting, and have made diverse notable achievements in both my studies and extra-curricular activities, which would make me an excellent asset to any finance or accounting program.I'm an aspiring youth of 24 years of age, 
-completed my secondary high school education in Biology, Science and Mathematics. Later on I joined 'ICAI' to persue my career as a Chartered Accountant. 
-During this period I came to know about the 'Online Degree Program' initiated by the Indian Institute of technology, Madras. I found it very interesting and was fortunate enough to get enrolled as a student for the first batch of this program. So, currently I'm doing my BSc. in 'Programming & Data Science'.
+<p>A hardworking and motivated young secondary school graduate with an exemplary academic record and passion for progress in the finance and accounting field, having achieved excellent grades at higher secondary level Mathematics, English, and Science, along with active involvement in several cultural clubs and societies. I am keen to pursue a career in finance. I have a proven aptitude for law and accounting.</p>
+I have made diverse notable achievements in my studies and extra-curricular activities, making me an excellent asset to any finance or accounting program. I'm an aspiring youth of 24 years of age, completed my secondary high school education in Biology, Science, and Mathematics. Later on, I joined 'ICAI' to pursue my career as a Chartered Accountant. During this period, I learned about the 'Online Degree Program' initiated by the Indian Institute of Technology, Madras. I found it very interesting and was fortunate enough to enroll as a student for the first batch of this program. So, currently, I'm doing my BSc. in 'Programming & Data Science.'
 
 ## Skills & Experiance:
 <p align="left">
