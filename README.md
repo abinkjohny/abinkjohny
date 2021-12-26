@@ -9,11 +9,18 @@
 I have made diverse notable achievements in my studies and extra-curricular activities, making me an excellent asset to any finance or accounting program. I'm an aspiring youth of 24 years of age, completed my secondary high school education in Biology, Science, and Mathematics. Later on, I joined 'ICAI' to pursue my career as a Chartered Accountant. During this period, I learned about the 'Online Degree Program' initiated by the Indian Institute of Technology, Madras. I found it very interesting and was fortunate enough to enroll as a student for the first batch of this program. So, currently, I'm doing my BSc. in 'Programming & Data Science.'
 
 ## Skills & Experiance:
-<p align="left">
 
-- 📷 PHOTOSHOP/ILLUSTRATOR
-- 🏢 MICROSOFT OFFICE
-- 📹 FILMORA VIDEO EDITING  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/adobephotoshop.svg' height='25'> **Adobe Photoshop**
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/adobeillustrator.svg' height='25'> **Adobe Illustrator**
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/audacity.svg' height='25'> **Audacity**
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/microsoftoffice.svg' height='25'> **Microsoft Office**
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Wondershare_filmora_logo.svg' height='25'> **Fimlora Video Editting**
+
+
 - 🔭 I’m currently working on **a personal portfolio website** 
 - 🌱 I’m currently learning **Wordpress, php, html & css** 
 - 👯 I’m looking to collaborate on **Open-Source** 
