@@ -30,6 +30,7 @@ I have made diverse notable achievements in my studies and extra-curricular acti
 
 ## Profile Overview:  
   
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinkjohny&show_icons=true&theme=vue) 
+<img align="left" alt="Abin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abinkjohny&show_icons=true&hide_border=true" /> <img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinkjohny" />
+
 
 
