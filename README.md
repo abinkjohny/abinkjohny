@@ -10,16 +10,7 @@ I have made diverse notable achievements in my studies and extra-curricular acti
 
 ## Skills & Experiance:
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/adobephotoshop.svg' height='25'> **Adobe Photoshop**
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/adobeillustrator.svg' height='25'> **Adobe Illustrator**
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/audacity.svg' height='25'> **Audacity**
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/microsoftoffice.svg' height='25'> **Microsoft Office**
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Wondershare_filmora_logo.svg' height='25'> **Fimlora Video Editting**
-
+<img src='https://github.com/abinkjohny/abinkjohny/blob/main/Untitled.png' height='250'> 
 
 - 🔭 I’m currently working on **a personal portfolio website** 
 - 🌱 I’m currently learning **Wordpress, php, html & css** 
