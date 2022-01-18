@@ -13,7 +13,7 @@ I have made diverse notable achievements in my studies and extra-curricular acti
 <img src='https://github.com/abinkjohny/abinkjohny/blob/main/Untitled.png' height='250'> 
 
 - 🔭 I’m currently working on **a personal portfolio website** 
-- 🌱 I’m currently learning **Wordpress, php, HTML, css & Kotlin** 
+- 🌱 I’m currently learning **HTML, Wordpress, Kotlin, Python & php** 
 - 👯 I’m looking to collaborate on **Open-Source** 
 
 ## Connect with me:
