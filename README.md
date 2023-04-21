@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abin K Johny</h1>
-<h3>I'm a Student and a Designer</h3>
+<h3>I'm a Student and a Developer</h3>
 <img align="right" alt="GIF" src="https://github.com/abinkjohny/abinkjohny/blob/main/image_processing20210909-29286-dr58yz.gif" width="300" height="225" />
 
 <p>A hardworking and motivated young secondary school graduate with an exemplary academic record and passion for progress in the finance and accounting field, having achieved excellent grades at higher secondary level Mathematics, English, and Science, along with active involvement in several cultural clubs and societies. I am keen to pursue a career in finance. I have a proven aptitude for law and accounting.</p>
